@@ -3,6 +3,10 @@ Elastic Beanstalk Application: http://image-processing-aws-dev.us-east-1.elastic
 
 Screenshot of the EB application from AWS Console is in the deployment_screenshot directory.
 
+## Example Request
+http://image-processing-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+
 
 # Full Stack Apps on AWS Project
 
